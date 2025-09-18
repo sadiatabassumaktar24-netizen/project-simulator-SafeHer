@@ -6,3 +6,10 @@
 
 <footer>
  
+feat: implement user registration
+
+- Add registration form component
+- Create user service
+- Implement validation rules
+
+Closes #123
